@@ -23,11 +23,11 @@ I work on backend systems, security, and applied ML, and I like building things 
 
 **Languages:** Python · Java · C/C++ · JavaScript · SQL · Bash
 
+**Security:** EDR detection engineering · Sysinternals · PE Studio · Kali Linux · Nmap · Wireshark · Metasploit · Scapy · OWASP Top 10
+
 **Backend & data:** Spring Boot · Node.js / Express · MySQL · SQL Server · Pandas · scikit-learn · Statsmodels
 
 **AI / ML:** LangChain · LangGraph · Ollama · Google ADK · FAISS · spaCy
-
-**Security:** EDR detection engineering · Sysinternals · PE Studio · Kali Linux · Nmap · Wireshark · Metasploit · Scapy · OWASP Top 10
 
 **Infra & tools:** Linux · Git · Docker · GitHub Actions · AWS · GCP · Azure
 
