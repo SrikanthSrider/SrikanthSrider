@@ -6,7 +6,7 @@ I work on backend systems, security, and applied ML, and I like building things 
 - 🛡️ Security Research Intern at **Acronis**, building and tuning EDR detections for LOLBins (attacker abuse of trusted Windows binaries)
   by reproducing techniques as proofs of concept and validating detections against EDR telemetry
 - 🔐 Previously a Technical Developer in Information Security (GRC) at **Singapore Airlines**,
-  where I built a RAG system (LangChain, Ollama) that cut compliance review time by 70–80%
+  where I built AI-enabled solutions for GRC workflows that cut compliance review time by 70–80%
 - 🧪 Undergraduate research on timing side-channel attacks against RSA
 - 🏆 1st place: National AI Student Developer Challenge 2025 (DataRobot track) and the Singtel Information Systems & Programming Award
 
